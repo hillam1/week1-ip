@@ -1,0 +1,14 @@
+.intro {
+    font-style: italic;
+}
+.container {
+    text-align: center;
+    background-color: aquamarine;
+}
+.degree {
+    text-emphasis-color: red;
+}
+.text-box {
+    border: 2px solid red;
+  padding: 6px;
+}
